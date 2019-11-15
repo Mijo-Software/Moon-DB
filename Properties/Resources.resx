@@ -136,6 +136,9 @@
   <data name="book_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\book_edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bug" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bug.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bullet_arrow_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bullet_arrow_left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -229,6 +232,21 @@
   <data name="find" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\find.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="flag_france" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flag_france.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_germany" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flag_germany.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_great_britain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flag_great_britain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_italy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flag_italy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_spain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flag_spain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -243,6 +261,9 @@
   </data>
   <data name="json" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\json.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="language" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\language.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lightbulb" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lightbulb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -295,6 +316,18 @@
   <data name="report_go" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\report_go.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="resultset_first" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resultset_first.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="resultset_last" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resultset_last.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="resultset_next" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resultset_next.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="resultset_previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resultset_previous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="save_as" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\save_as.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -309,6 +342,9 @@
   </data>
   <data name="script" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\script.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setting_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setting_tools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sort_ascending" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sort_ascending.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

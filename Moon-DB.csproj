@@ -366,5 +366,41 @@
   <ItemGroup>
     <None Include="Resources\zoom.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_first.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\language.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_france.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_germany.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_great_britain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_italy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_spain.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

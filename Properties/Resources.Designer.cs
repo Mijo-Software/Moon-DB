@@ -123,6 +123,16 @@ namespace Moon_DB.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bug {
+            get {
+                object obj = ResourceManager.GetObject("bug", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bullet_arrow_left {
             get {
                 object obj = ResourceManager.GetObject("bullet_arrow_left", resourceCulture);
@@ -433,6 +443,56 @@ namespace Moon_DB.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap flag_france {
+            get {
+                object obj = ResourceManager.GetObject("flag_france", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap flag_germany {
+            get {
+                object obj = ResourceManager.GetObject("flag_germany", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap flag_great_britain {
+            get {
+                object obj = ResourceManager.GetObject("flag_great_britain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap flag_italy {
+            get {
+                object obj = ResourceManager.GetObject("flag_italy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap flag_spain {
+            get {
+                object obj = ResourceManager.GetObject("flag_spain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap folder {
             get {
                 object obj = ResourceManager.GetObject("folder", resourceCulture);
@@ -476,6 +536,16 @@ namespace Moon_DB.Properties {
         internal static System.Drawing.Bitmap json {
             get {
                 object obj = ResourceManager.GetObject("json", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap language {
+            get {
+                object obj = ResourceManager.GetObject("language", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -653,6 +723,46 @@ namespace Moon_DB.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap resultset_first {
+            get {
+                object obj = ResourceManager.GetObject("resultset_first", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap resultset_last {
+            get {
+                object obj = ResourceManager.GetObject("resultset_last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap resultset_next {
+            get {
+                object obj = ResourceManager.GetObject("resultset_next", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap resultset_previous {
+            get {
+                object obj = ResourceManager.GetObject("resultset_previous", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap save_as {
             get {
                 object obj = ResourceManager.GetObject("save_as", resourceCulture);
@@ -696,6 +806,16 @@ namespace Moon_DB.Properties {
         internal static System.Drawing.Bitmap script {
             get {
                 object obj = ResourceManager.GetObject("script", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap setting_tools {
+            get {
+                object obj = ResourceManager.GetObject("setting_tools", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
